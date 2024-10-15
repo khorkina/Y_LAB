@@ -1,4 +1,4 @@
-package Homework1;
+package Homework1.habitsTracker;
 
 import Homework1.ui.ApplicationStarter;
 

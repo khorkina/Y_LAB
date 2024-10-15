@@ -1,4 +1,4 @@
-package Homework1;
+package Homework1.dao;
 
 import Homework1.models.Habit;
 import Homework1.models.User;

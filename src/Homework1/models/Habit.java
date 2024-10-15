@@ -1,4 +1,4 @@
-package Homework1;
+package Homework1.models;
 
 import Homework1.utils.Frequency;
 

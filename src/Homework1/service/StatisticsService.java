@@ -1,4 +1,4 @@
-package Homework1;
+package Homework1.service;
 
 import Homework1.models.Habit;
 

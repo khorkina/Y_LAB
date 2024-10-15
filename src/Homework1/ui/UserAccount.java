@@ -1,4 +1,4 @@
-package Homework1;
+package Homework1.ui;
 
 import Homework1.models.User;
 import Homework1.utils.Utils;

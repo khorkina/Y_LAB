@@ -1,4 +1,4 @@
-package Homework1;
+package Homework1.utils;
 
 public enum Frequency {
     DAILY("ежедневно"),

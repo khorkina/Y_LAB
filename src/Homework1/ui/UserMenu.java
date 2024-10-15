@@ -1,12 +1,12 @@
-package Homework1;
+package Homework1.ui;
 
-import ylab.com.controller.UserController;
-import ylab.com.models.User;
+import Homework1.controller.UserController;
+import Homework1.models.User;
 
 import java.util.Scanner;
 
-import static ylab.com.utils.Utils.clearConsole;
-import static ylab.com.utils.Utils.waitForEnter;
+import static Homework1.utils.Utils.clearConsole;
+import static Homework1.utils.Utils.waitForEnter;
 
 public class UserMenu {
 
