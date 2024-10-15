@@ -1,6 +1,4 @@
-package Homework1;
-
-import Homework1.models.Habit;
+package Homework1.models;
 
 import java.util.ArrayList;
 import java.util.List;
