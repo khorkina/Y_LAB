@@ -4,12 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class User {
-    private String name;
-    private String email;
-    private String password;
-    private boolean isAdmin;
-    private boolean isBlocked;
-    private List<Habit> habits;
+    public String name;
+    public String email;
+    public String password;
+    public boolean isAdmin;
+    public boolean isBlocked;
+    public List<Habit> habits;
 
     public User(String name, String email, String password) {
         this.name = name;

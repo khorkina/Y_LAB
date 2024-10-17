@@ -13,8 +13,8 @@ import static Homework1.utils.Utils.validatePassword;
 
 public class UserController {
 
-    private static UserManager userManager = new UserManager();
-    private static User currentUser;
+    public static UserManager userManager = new UserManager();
+    public static User currentUser;
 
     public static void deleteUserAccount(User currentUser, Scanner scanner) {
         System.out.print("Вы уверены, что хотите удалить ваш аккаунт? (да/нет): ");
